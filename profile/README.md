@@ -7,7 +7,7 @@ A library to provide a single interface for GPIO control code that can be built 
 
  - [wiringGpioExtensions github](https://github.com/wiringGpio/wiringGpioExtensions)
 
-Additionally, the wiringGpioExtensions library provides a number of additional drivers:
+The wiringGpioExtensions library also provides a number of additional driver methods for:
 
  - Unipolar and bipolar stepper motor
  - Rotary encoder
