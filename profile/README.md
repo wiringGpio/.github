@@ -17,7 +17,7 @@ The wiringGpioExtensions library also provides a number of additional driver met
 
 
 ## wiringPiE
-This is a fork of the wiringPi library, with additional device extensions and methods for more PWM driver support, and some tweaks to the logging and failure handling to work better with wiringGpioExtensions.
+This is a fork of the wiringPi library, with additional device extensions and methods for more PWM driver support, and some minor changes to the logging and failure handling to work better with wiringGpioExtensions.
 
  - [wiringPiE github](https://github.com/wiringGpio/wiringPiE)
 
