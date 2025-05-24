@@ -9,9 +9,9 @@ A library to provide a single interface for GPIO control code that you can build
 
 The wiringGpioExtensions library also provides a number of additional driver methods for:
 
- - Unipolar and bipolar stepper motor
- - Rotary encoder
- - Motor with rotary encoder
+ - Unipolar and bipolar stepper motors
+ - Rotary encoders
+ - Motor with rotary encoders
  - Seven segment displays
  - ...
 
